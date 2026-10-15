@@ -55,5 +55,5 @@ More projects and improvements will be added as I continue learning and developi
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [My LinkedIn Profile]([https://www.linkedin.com/](https://www.linkedin.com/in/hugo-costa-moreira)
+- 💼 LinkedIn: [Hugo Costa Moreira](https://www.linkedin.com/in/hugo-costa-moreira/)
 - 🐙 GitHub: [@Hugodev0711](https://github.com/Hugodev0711)
